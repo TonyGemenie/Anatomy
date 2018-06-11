@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="structures_array">
+        <item>Hair shaft</item>
+        <item>Pore of sweat gland</item>
+        <item>Tactile  corpuscle</item>
+        <item>Sebacous gland</item>
+        <item>Arrector pili muscle</item>
+        <item>Sweat gland duct</item>
+        <item>Hair follicle</item>
+        <item>Lamellated corpuscle</item>
+        <item>Nerve fibers</item>
+        <item>Sweat gland</item>
+        <item>Artery</item>
+        <item>Vein</item>
+    </string-array>
+</resources>
